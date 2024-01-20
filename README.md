@@ -7,17 +7,17 @@ In this repository, you will have access to 2 Python files, the "main" file with
 
 The work requires the importation of the Python libraries "time," "random," and "sys."
 
-#Compilation Instructions:
+////Compilation Instructions:
 
 This is a Python script and does not need to be compiled. It can be executed directly.
 
-#Execution Instructions:
+////Execution Instructions:
 
 	Save the code in a file with the ".py" extension.
 	Open the terminal in the directory where the .py file was saved.
 	Type "python filename.py" (without quotes) and press enter.
 
-#Usage Instructions:
+////Usage Instructions:
 
 When running the program, the user will be prompted to choose one of 3 game modes through terminal input:
 
